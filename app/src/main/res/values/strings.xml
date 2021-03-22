@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConvertTools</string>
+    <string name="MeterCentimetre">Centimetre</string>
+    <string name="MeterFoot">Foot</string>
+    <string name="MeterInch">Inch</string>
+    <string name="KilogramsGram">Gram</string>
+    <string name="KilogramsOunce">Ounce(Oz)</string>
+    <string name="KilogramsPound">Pound(lb)</string>
+    <string name="CelsiusFahrenheit">Fahrenheit</string>
+    <string name="CelsiusKelvin">Kelvin</string>
+
+</resources>
